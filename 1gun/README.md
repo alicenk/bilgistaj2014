@@ -13,4 +13,4 @@ Git'in ana amacı yazılan kodları yedeklemek ve üzerindeki yapılan her türl
 
 İlk gün bunları araştırıp idrak etmeye çalışmamla geçti.İkinci gün markdown syntaxını araştırarak günlüğümü tutmaya başlayacağım ve markdown'un nasıl çalıştığını araştıracağım.
 
-**staj**
+**staj** rrrr
