@@ -88,5 +88,5 @@ Sayfalar arası geçişleri de öğrendikten sonra twitter benzeri açık kaynak
     @import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=2728956736);@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/component.min.css?xn_version=295185491);
     </style>
 
-Bu ve benzeri şekilde birçok css dosyası @import yöntemiyle çağırılıp websayfasında komutları kullanılmıştır. Bu açık kaynak kodlardan ben de web sitemi oluştururken yardım alacağım.
+Bu ve benzeri şekilde birçok css dosyası @import yöntemiyle çağırılıp websayfasında komutları kullanılmıştır. Bu açık kaynak kodlardan ben de web sitemi oluştururken yardım alacağım..
 ****
