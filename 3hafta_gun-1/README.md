@@ -12,4 +12,4 @@ Bu gün Ali abiye IT binasında ufak bir işim olduğunu söyledim. Kafamdaki bu
 
 Kendi yerime döndüğümde Ali abi bana gitHub ile gitBook arasındaki  bağlantıyı çözdüğünü söyledi. GitHub hesabımda bilgistaj adında bir repository oluşturduk. Artık git ve gitHub'un amacını tamamen anlamıştım. Editörden değil artık sourcetree adlı programdan günlüklerimi publish edicektim. GitBook editöründe publish etmem gereksizdi çünkü gitHub'da olan değişklikler özellikle işimizi yaparken olan değişiklikler gitBook'da direk görünecek ve birbirleriyle bağlantılı çalışacaklardı. Günlüklerimi Sourcetree'de commit ettim. Projemde,günlüğümde ya da herne işim varsa yaptığım değişiklikleri Sourcetree'de çalıştırıp commit ettiğimde gitHub'da ve gitBook'da değişiklikler kaydedilecekti.
 
-Bugün bir bilgisayara farklı bir işletim sistemi kurmayı ve git,gitHub,gitBook notasyonlarını tamamiyle kavradım. Projem için çalışlamarım diğer günlerde devam edicek.
+Bugün bir bilgisayara farklı bir işletim sistemi kurmayı ve git,gitHub,gitBook notasyonlarını tamamiyle kavradım. Projem için çalışlamarım diğer günlerde devam edicek...
