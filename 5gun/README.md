@@ -143,6 +143,8 @@ Bu kısa kod çalışmamın ilerki çalışmalarıma öncü olacağını ümit e
 
 Bu kodlamada tablo yaparken gerekli elementlerin neler olduğunu öğrendim. Tablonun kalınlığını body kısmında  table etiketinin border özelliğinin belirlediğini öğrendim. Tablodaki nesneleri ortalamak için de "aling center" komutunu kullanmamız gerektiğini öğrendim. Eğer nesnelerin sağda olmasını istersek "aling center" yerine "aling right" yapmamız gerektiğini öğrendim. Başlıklar için diğerlerinden ayrı olarak < th > elementini kullandık. Ancak yine < td > kullanarak bunun içerisinde başlık elementi olan < h > kullanabilirdik. Sayfanın görüntüsü aynı olurdu.
 
+
+
 Tablo yapmak için < table > < /table > komutunun içine < tr > < /tr > komutunun gerekliliğini öğrendim.
 
 Bir önceki kendi sade çalışmamda tek buton yapmıştım. Şimdi ise araştırıp CSS komutlarıyla farklı büyüklüklerde butonların nasıl yapıldığını, kodlandığını öğrendim. Bu gün incelediğim kodlardan sonuncusunu söylemeden önce kaynak olarak aldığım site şudur: http://tugdev.github.io/
@@ -160,6 +162,5 @@ Bir önceki kendi sade çalışmamda tek buton yapmıştım. Şimdi ise araştı
     <button type="button" class="btn btn-mini btn-primary">Mini button</button>
     <button type="button" class="btn btn-mini">Mini button</button>
 
-
-    Bu kodları notepad++'da çalıştırdığımda görmek istediğim sayfa görüntüsü solda large button isimli mavi renk buton, sağda gri renkli large buton isimli buton olmasıydı. Aşağı doğru küçülmesini bekliyordum ancak tarayıcıda karşılaştığım görüntü düz butonların sıralaması oldu. Bu sorunu css'e daha derinlemesine girdiğimde araştıracağım.
+ Bu kodları notepad++'da çalıştırdığımda görmek istediğim sayfa görüntüsü solda large button isimli mavi renk buton, sağda gri renkli large buton isimli buton olmasıydı. Aşağı doğru küçülmesini bekliyordum ancak tarayıcıda karşılaştığım görüntü düz butonların sıralaması oldu. Bu sorunu css'e daha derinlemesine girdiğimde araştıracağım.
 
