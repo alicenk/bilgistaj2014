@@ -1,7 +1,7 @@
-#İkinci hafta
+#Üçüncü hafta
 
-## 3.gün
-**02/08/2014**
+## 1.gün
+**04/08/2014**
 
 
 Bu gün diğer günlerden biraz daha yoğun geçti. Çünkü daha yazılım dışında aktivitelerde bulundum ve projem ikinci plandaydı.Çünkü elimde emanet bir netbook vardı ve onu Bilgi İşlem IT binasında imaj attırmaya götürmem gerekiyordu. Başta bu kadar uzun sürüceğini bilmiyordum. Aslında format kısmı uzun sürmedi fakat update kısmı uzun sürdü. Windows'u update etmemiz gerekiyordu. Bu gün bazı aksilikler çıktı ve bu aksilikler sayesinden stajım boyunca sadece yazılım adına değil network adına ve işletim sistemleri adına da IT binasındaki çalışanlardan çok yararlı bilgiler edindim.
