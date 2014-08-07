@@ -2,9 +2,9 @@
 ##1.gün
 **31/07/2014**
 
-Bugün HTML kodlarını iyice kavraman adına temel HTML kodlarını inceleyip basit taslak bir website tasarladım. HTML'ye iyice hakim olmak adına notasyonu kavrayabilmek için böyle çerez siteler programlar yapıp derleyeceğim. Daha sonra CSS dosyasını çekip,kodları karıştırıp nasıl olduğunu öğreneceğim. HTML ile sade bir web site tasarlamak isterken ve elementlerinin,komutlarının ne işe yaradığını araştırırken HTML ile ilgili bazı bilgiler edindim.
+Bugün HTML kodlarını iyice kavramak adına temel HTML kodlarını inceleyip basit taslak bir website tasarladım. HTML'ye iyice hakim olmak adına notasyonu kavrayabilmek için böyle çerez siteler programlar yapıp derleyeceğim. Daha sonra CSS dosyasını çekip,kodları karıştırıp nasıl olduğunu öğreneceğim. HTML ile sade bir web site tasarlamak isterken ve elementlerinin,komutlarının ne işe yaradığını araştırırken HTML ile ilgili bazı bilgiler edindim.
 
-KTML , Hyper Text Markup Language kelimelerinin baş harflerinin kısaltması olan, türkçe ifade ile "zengin metin işaretleme dili"dir. HTML CERN'de müteahhit olarak çalışan Tim Berners-Lee tarafından 80'li yıllarda geliştirilen, 90'lı yıllarda ise adının konduğu bir web standartıdır.
+HTML , Hyper Text Markup Language kelimelerinin baş harflerinin kısaltması olan, türkçe ifade ile "zengin metin işaretleme dili"dir. HTML CERN'de müteahhit olarak çalışan Tim Berners-Lee tarafından 80'li yıllarda geliştirilen, 90'lı yıllarda ise adının konduğu bir web standartıdır.
 
 HTML'de bağlantılar (link'ler) < a > etiketi içine yazılır. a harfi İngilizce'deki attribute kelimesinin kısaltmasıdır. Dilimizde "atıf" gibi bir anlama gelmektedir.
 
@@ -15,7 +15,7 @@ Bu kod satırı web sayfamızda link vermeye yarar ve href'den sonra = yazdığ�
 
 Bu örnek kod satırıyla tırnak içine görsel birşey içeren link yazdığımızda çalıştırdığımız zaman web sayfamızda linkteki görsel içerik görünür.
 
-Bu bilgilerle örnek bir taslak website sayfası yaptığımızda aşağıdaki kodlarla taslak bir websitesi elde ettim.
+Bu bilgiler yardımıyla aşağıdaki kodlarla birlikte örnek taslak bir websitesi elde ettim.
 
             <html>
             <head>
