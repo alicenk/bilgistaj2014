@@ -84,7 +84,7 @@ Kullanıcı adı, şifre, e-posta isteyen bir web arayüzü için gerekli kodlar
              </form>
 
 
- >
+
  Bu kodlar notepad++'da .html uzantısıyla çalıştırıldığında web sayfamızda bir form sayfası ve kullanıcıdan e-posta ve şifre isteyecek metin kutuları görünecektir. Bir de chechbox olacaktır orda da remember me ifadesi bulunacaktır.
 
 
