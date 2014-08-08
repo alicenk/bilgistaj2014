@@ -69,5 +69,20 @@ Toparlıyacak olursak:
 - Div
    - *Container ve diğer bütün sayfa bölümleri div'e etiket olarak yazılır. Çünkü hepsi kendi bölümünün etiketleridir ve div 'division' kelimesinden gelir. Division türkçede 'bölüm' anlamındadır. Yani div etiketi diğer etiketlerin içerdiği bölümleri içerir. *
 
+Bu içeriklerin kodları ise şöyledir:
+
+
+         <div id="container">
+             <header>
+             </header>
+             <nav>
+             </nav>
+             <div id="content">
+             </div>
+             <aside>
+             </aside>
+             <footer>
+             </footer>
+          </div>
 
 Bu gün bir web sayfasının bölümlerinin neler olduğunu ve hangi bölümlerin hangi etiketler içerisine yazılıp kodlandığını öğrendim. HTML'de temel oluşturma çalışmalarımda sonlara doğru yaklaşırken artık yavaş yavaş CSS'e giriş yapacağım.
