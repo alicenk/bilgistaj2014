@@ -35,7 +35,7 @@ Kod satırıyla mesaj kutusu açılabilir. Row satır demektir. Satır bilgisi b
 
 
 
-*Genel tekrarımın sonucu olarak derlediğim ve tekrar edip daha iyi kavradığım temel HTML bilgileri bunlardır. Bugün bu HTML bilgilerini daha iyi kavradım ve CSS çalışmalarıma başladığımda bu kodlara CSS kodlarını da ekleyip birlikte çalıştırarak hem HTML hem CSS egzersizi yapmış olacağım.
+*Genel tekrarımın sonucu olarak derlediğim ve tekrar edip daha iyi kavradığım temel HTML bilgileri bunlardır. Bugün bu HTML bilgilerini daha iyi kavradım ve CSS çalışmalarıma başladığımda bu kodlara CSS kodlarını da ekleyip birlikte çalıştırarak hem HTML hem CSS egzersizi yapmış olacağım.*
 
 Bu gün HTML tekrarından sonra biraz daha zamanım kaldığı için biraz CSS araştırmaya başladım. CSS'in daha önce 4 şekilde HTML kodları arasına çağırılabildiğini ve CSS'in sadece < head >< /head > etiketleri arasına yazıldığını araştırmış ve ön bilgi sahibi olmuştum.Bu gün bunları biraz daha irdeledim.
 
