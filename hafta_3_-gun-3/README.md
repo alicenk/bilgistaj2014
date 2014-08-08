@@ -67,7 +67,7 @@ Toparlıyacak olursak:
 - Aside
      - *Web sayfasında kategoriler, anketler, takvimler gibi nesneler bu bölümdedir.*
 - Div
-   - *Container ve diğer bütün sayfa bölümleri div'e etiket olarak yazılır. Çünkü hepsi kendi bölümünün etiketleridir ve div 'division' kelimesinden gelir. Division türkçede 'bölüm' anlamındadır. Yani div etiketi diğer etiketlerin içerdiği bölümleri içerir. *
+   - *Container ve diğer bütün sayfa bölümleri div'e etiket olarak yazılır. Çünkü hepsi kendi bölümünün etiketleridir ve div 'division' kelimesinden gelir. Division türkçede 'bölüm' anlamındadır. Yani div etiketi diğer etiketlerin içerdiği bölümleri içerir.*
 
 Bu içeriklerin kodları ise şöyledir:
 
