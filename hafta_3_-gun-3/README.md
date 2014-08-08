@@ -50,7 +50,8 @@ etiketini kullanmalıyız.Article dilimizde makale anlamına gelir.
 Toparlıyacak olursak:
 
 - Container
-   -   *Tüm yapısal elementleri içine alan, web sayfasının tamamını kapsayan bölümdür.Bütün etiketler container'e dahildir.<div id="contanier> etiketi ile belirtilir.Diğer bütün etiketler bu etiketin içine yazılır. Contanier bu yüzden hepsini kapsamaktadır.*
+   -   *Tüm yapısal elementleri içine alan, web sayfasının tamamını kapsayan bölümdür.Bütün etiketler container'e dahildir.
+   -   < div id="contanier > etiketi ile belirtilir.Diğer bütün etiketler bu etiketin içine yazılır. Contanier bu yüzden hepsini kapsamaktadır.*
 -   Header
    -   *Sitenin logosu , dahili arama motoru , sosyal medya düğmeleri , ticari sitelerde üye girişi gibi bağlantıların yer aldığı bölümdür.*
 
