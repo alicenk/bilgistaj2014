@@ -64,3 +64,4 @@ Bu kodlar notepad++'da .html uzantısıyla kaydedilip bir web tarayıcıda çal�
     <a href="http://www.zinzinzibidi.com/Areas/web_tasarim/Content/img/mavi_cicek.jpg">Mavi bir çicek örneği</a>
     </body>
     </html>
+

@@ -164,3 +164,4 @@ Bir önceki kendi sade çalışmamda tek buton yapmıştım. Şimdi ise araştı
 
  Bu kodları notepad++'da çalıştırdığımda görmek istediğim sayfa görüntüsü solda large button isimli mavi renk buton, sağda gri renkli large buton isimli buton olmasıydı. Aşağı doğru küçülmesini bekliyordum ancak tarayıcıda karşılaştığım görüntü düz butonların sıralaması oldu. Bu sorunu css'e daha derinlemesine girdiğimde araştıracağım.
 
+
