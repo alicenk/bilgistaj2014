@@ -85,4 +85,4 @@ Bu içeriklerin kodları ise şöyledir:
              </footer>
           </div>
 
-Bu gün bir web sayfasının bölümlerinin neler olduğunu ve hangi bölümlerin hangi etiketler içerisine yazılıp kodlandığını öğrendim. HTML'de temel oluşturma çalışmalarımda sonlara doğru yaklaşırken artık yavaş yavaş CSS'e giriş yapacağım.
+Bu gün bir web sayfasının bölümlerinin neler olduğunu ve hangi bölümlerin hangi etiketler içerisine yazılıp kodlandığını öğrendim. HTML'de temel oluşturma çalışmalarımda sonlara doğru yaklaşırken artık yavaş yavaş CSS'e giriş yapacağım........
