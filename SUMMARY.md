@@ -10,4 +10,5 @@
 * [Hafta 3 - Gün-1](3hafta_gun-1/README.md)
 * [Hafta 3 - Gün-2](hafta3_gun_2.md)
 * [Hafta 3 -Gün-3](hafta_3_-gun-3/README.md)
+* [Hafta 3 -Gün-4](hafta_3_-_gun-4/README.md)
 
