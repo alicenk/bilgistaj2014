@@ -1,20 +1,95 @@
-# Üçüncü hafta
+# İkinci Hafta
 
-##2.gün
-
-**05/08/2014**
-
-Bu gün günlerdir yapamadığım halledemediğim gitHub ile gitBook bağlantısını diğer çalışanların yardımıyla çözebildim ve aradaki bağlantıyı kurduk.Git'in çalışma prensibi şudur:
+##1.gün
+**04/08/2014**
 
 
-*EDİTÖR'DE YAZILAN KİTAP-------------->KLASÖRE KAYDEDİLİR-------------->SOURCETREE PROGRAMIYLA KLASÖR 'NEW CLONE' SEÇENEĞİ İLE CLONE EDİLİR------------------->GİTHUB'A COMMİT EDİLİR<----------------------->GİTBOOK'LA GİTHUB BAĞLANTISIYLA DEĞİŞİKLİKLER BİRBİRİNDE GÖRÜNÜR*
+Bu gün projem için sayfalar arası geçişlerin hangi etiketlerle olabileceğini araştırdım. Kişiden kullanıcı adı ve şifre istendiğinde,bir link'e tıkladığı zaman websitenin içerisinde başka bir sayfaya geçmek için gerekli etiketleri ve kodlamaları öğrendim.Ayrıca bi tane açık kaynaklı twitter clone sitesi keşfettim ve kaynak kodlarını inceledim. Öğrendiklerime benzer kodlama var mı yok mu onu kontrol ettim ve @port ile css dosyası çekme yöntemini kullandıklarını farkettim.
 
-Önceden kitabımı editöre yazıp gitBook'a publish ederdim. GitHub'da görünmezdi. Şimdi çalışmalarımı ve notlarımı gitHub'a aktaracağım ve gitHub ile gitBook arasındaki bağlantıdan günlüklerim gitBook'da düzgün birşekilde görünecek.Bunu yapmak için öncelikle Sourcetree programını indirdim. Çünkü gitBook editöründe yazdıklarımın kaydedildiği klasörü Sourcetree'de clone edip değişikliklerin burdan görünmesini sağlamam gerekiyordu.
 
-Öncelikle Sourcetree'yi kurdum.Yükleme aşaması biraz sancılıydı çünkü Sourcetree programı, sistemi ve birbiriyle olan bağlantısı zor olan Git notasyonunun bağlantısının olacağı programdı. Kurulduktan sonra new clone seçeneğinden kitabımın kayıt olduğu '_bilgistaj2014' dosyasını clone ettim. Çünkü buradaki dosyalar benim günlüklerim ve Sourcetree'ye clone edilmezse değişiklikleri algılamazdı. Bundan sonra günlüğüme eklediklerim, çıkardıklarım, düzelttiklerim,yaptığım bütün değişiklikler Sourcetree'de clone'ladığım _bilgistaj2014'de branch(şube) ettiğim master bölümünde görünecekti. Değişiklikler programın üst kısmında new clone bölümünün çubuğunda yer alan 'commit' kısmına tıklayarak commit edilir.Kelime anlamı 'teslim etmek' olan commit teslim etmek üzere değişiklikleri alır. Yine commit ve new clone çubuğunda yer alan add/remove butonuyla commitler push edilmek üzere eklenir. Commit edildiğinde aynı çubukta push kısmında commit olanlar birikir. Ben yaptığım değişiklikleri bu işlemlerden geçirdikten sonra push kısmında 2 tane commit gördüm. Programı öğrenmeye çalışırken çalışanlardan yardım alarak ilk 6 günü push etmiştik ancak programın karışıklığından nasıl gerçekleştiğini anlayamadık. Ben öğrenmek için programı kurcalarken 7.ve8. günü de push ettiğimi farkettim. Ancak gitHub'a düştüğü halde gitBook'da görünmüyordu. Sonra bunları düzeltmek için _bilgistaj2014 dosyasını açtım ve editörü artık bu dosyada çalıştırdım. 7.ve8. klasörü başka bir klasöre kopyalayıp diğer günleri bu klasöre aktardım ve editörde çalıştırdım. Daha sonra 7.ve 8. günleri tekrar editöre yazıp kopyaladığımda Sourcetree'de değişikliklerin algılandığını gördüm. Commit edip push ettikten sonra bu problemin ortadan kalktığını gördüm.
+Sayfalar arası geçiş yapmak için öncelikle elimde olan bazı çerez kodları kullandım. Sayfalar arası nasıl geçiş yapıldığını araştırdım ve bir sayfadan ötekine geçiş yapmak için genelde < a >< /a > etiketinin kullanıldığını gördüm. Öncelikle araştırmamla bulduğum basit hazır bir kodu aldım. O kodlar şudur:
 
-Daha sonra başka bir problemi de çözmem gerekiyordu. Gün isimlerini değiştirmek istiyordum. Bunun için editör üzerinde gün isimlerini tek tek rename ettim ve istediğim şekle getirdim. Ancak bir sorun vardı. Çünkü save butonu çalışmıyordu. Yani save butonu sadece içerik değişikliğini algılıyordu. Programı save etmem gerekiyordu. İçerik değiştirip save etmeyi düşündüm o zaman isim değişikliğini algılayabilirdi. Bir tanesinde ufak bir içerik değişikliği yaptım ve save ettikten sonra commit edip push ettim. GitHub'a baktığımda değişiklik göremiyordum ancak gitBook'ta değişiklikler kaydedilmişti. GitHub'da sadece tekrardan eklediğim ve isimlerini o anda değiştirdiğim 7.ve8. günlerin isimleri istediğim gibiydi. Yani 2.hafta gün 2 ve 3.hafta gün 1 şeklindeydiler. GitBook'da değişikliklerin kaydedildiğini görünce diğer günleri de rename ettim ve commit edip push ettim. Bütün değişiklikler artık tam istediğim gibi gitBook'daydı aynı zamanda gitHub'a push ediliyordu. Git notasyonundaki senkronu tamamiyle tutturabilmiş ve asıl amacını şuan çözmüş bulunmaktayım.
+    <html>
+    		<head>
+    		 <title>Link Uygulaması</title>
+    		</head>
 
-Git notasyonu versiyon kontrol sistemini sağlar. Versiyon kontrol sistemi yapılan değişiklikleri hiyerarşik şekilde versiyonlayıp değişikliklerin hangi anda yapıldığını kaydeder ve bunları kayıt altında tutar. Bu şekilde yaptığımız değişiklikleri görüp inceleyebilir aslında beğenmezsek geri dönebiliriz ancak bu geridönüş de farklı bir versiyon şeklinde olur.Çünkü yapılan her değişikliğin sonucu çalışmamızın farklı bir versiyonudur.Ayrıca git programımızda ya da projemizde yaptığımız değişiklikleri hemen günlüğe kaydetmez. Push bölümünde birikmesinin sebebi değişklikleri kontrol edip karar değiştirdikten sonra daha günlüğe eklemeden geri çekebilmektir. Bu sayede tekrardan günlükten silmekle ve tekrardan yazmakla zaman harcamayacağız. Ayrıca yapılan bir değişikliği bi yerde kaydedip sonraki değişikliği bir daha kaydetmek ve bunları tekrardan derleyip kontrol altında tutmaya çalışmanın zorluğunu ortadan kaldırmış ve bunu bizim yerimize kendisi yapar hale gelmiştir. Ayrıca bu işlemler sırasında kaybedilen vakti bize kazandırarak proje çalışmalarında ferahça işlem yapabilmemizi ve kendimizi işimize daha rahat verip vakit derdinden bizi kurtarmıştır.
+    	<body>
+           <a name="start"></a>
+    		<ul>
+    		  <li><a href="anasayfa.html">Anasayfa</li></a>
+    		  <li><a href="başkanınsayfası.html">Başkanın Sayfası</li></a>
+    		  <li><a href="iletişim.html">İletişim</li></a>
+    		</ul>
+    		  <h1>Anasayfa</h1>
+              <p><a href="#end">Sayfa Sonu</a></p>
+    		  <hr/><a href="http://www.w3schools.com">
+    		  <img src="real madrid.jpg"/>
+              </a>
+    		  <br/>
+              <a href="http://www.wordpress.com">
+    		     <img src="Villarreal.png"/>
+              </a>
+              <a name="end"></a>
+              <p><a href="#start">Sayfa Başı</a></p>
+    	</body>
+    </html>
 
-Bugün git notasyonunu ve gitHub ile gitBook arasındaki ilişkiyi tamamen anladım. HTML çalışmalarım ve CSS araştırmalarım sonraki günlerde devam edecektir.
+Bu kod sayfasında sayfalar arası geçiş < li > < /li > etiketleri arasında < a > < /a > etiketleriyle link vererek sağlanmıştır. Bunun içinse yönlendirilecek sayfanın html uzantısıyla link olarak verilmiştir.Sayfa adresi de verilebilirdi.Ancak kodlanırken domain oluşmadığı için sayfalar arasında geçiş sağlamak için html uzantısı gereklidir.
+
+Sayfalar arası geçişi sağlamak için gerekli kod satırları şunlardır:
+
+            <ul>
+    		<li><a href="anasayfa.html">Anasayfa</li></a>
+    		<li><a href="başkanınsayfası.html">Başkanın Sayfası</li></a>
+    		<li><a href="iletişim.html">İletişim</li></a>
+    		</ul>
+
+
+Bu kod satırlarında görüldüğü üzere link uygulaması isimli sayfadan anasayfaya geçiş yapabilmek için anasayfa isimli bir web sayfası olmalı ve html uzantısıyla kaydedilmiş olmalıdır. Yani açıkça html ile kodlanmış bir anasayfa tasarımı olmalıdır. Ben bunun için önceki çalışmalarımda edindiğim form sayfasını kullandım. Form sayfasının kodları şunlardır:
+
+
+    <html>
+    <body bgcolor="yellow">
+    <form class="form-horizontal">
+    	<div class="control-group">
+    	  <label class="control-label" for="inputEmail">Email</label>
+    	  <div class="controls">
+    	<input type="text" id="inputEmail" placeholder="Email"/>
+    	  </div>
+    	</div>
+    	<div class="control-group">
+    	  <label class="control-label" for="inputPassword">Password</label>
+    	  <div class="controls">
+    	<input type="password" id="inputPassword" placeholder="Password">
+    	  </div>
+    	</div>
+    	<div class="control-group">
+    	  <div class="controls">
+    	<label class="checkbox">
+    	  <input type="checkbox"> Remember me
+    	</label>
+    	<button type="submit" class="btn"><a href="deneme.html">Sign in</a></button>
+    	  </div>
+    	</div>
+      </form>
+    	  </body>
+    	  </html>
+
+Görüldüğü üzere önceki araştırmalarımda edindiğim form sayfasının kaynak kodları bunlardır. Bu kodları notepad++'da .html uzantısıyla anasayfa adında kaydettiğimde artık anasayfa.html isimli bir websayfası oldu. Şimdi link uygulaması başlıklı websayfasındaki anasayfa linkine tıkladığımızda anasayfa.html uzantısıyla kaydettiğimiz form sayfasına yönlendirildik.
+
+Ben biraz daha kodlarla oynamak istedim. Sonuçta e-posta ve şifre girdikten sonra sing in butonu ile sisteme giriş yapılmak üzere tasarlanmış bir form sayfası durumundadır bu web sayfası. Ben form sayfasının kodlarında butonu yöneten kod satırında < a > < /a > etiketi ile link uygulaması başlıklı sayfanın .html uzantısını link olarak tanımladım. İlgili kod satırı şudur:
+
+
+    <button type="submit" class="btn"><a href="deneme.html">Sign in</a></button>
+
+Görüldüğü üzere bu kod satırında < a > < /a > etiketi olmadığında boş bir buton vardı orda. Ancak < button > < / button > etiketi içine deneme.html'yi link olarak verdiğimde artık o buton boş olmayıp aynı zamanda anasayfaya tıklayıp geldiğimiz yani link uygulaması başlıklı sayfaya geri dönücektir çünkü link uygulamasının .html uzantılı ismini yani denee.html'i link olarak butona tanımladım. Kodlarla oynayıp sayfalar arası geçişlerin nasıl sağlanacağını bu şekilde öğrendim.
+
+Sayfalar arası geçişleri de öğrendikten sonra twitter benzeri açık kaynak kodlu web sayfalarını araştırıp biraz fikir sahibi olmaya çalıştım. Araştırmalarım sonucu [http://twatter.com](http://twatter.com) isimki bir twitter clone'u açık kaynak bir web sitesine rastladım. Kaynak kodlarını kontrol edip incelemeye çalıştım. Bilgidiğim , öğrendiğim birşeylere rastlamaya çalıştım ve 4.gün araştırıp öğrendiğim CSS kodlarının HTML'ye çekilmesinde kullanılan yöntemlerden @import yönteminin benzer bir şekilde kullanıldığını gördüm.
+
+
+    <style type=​"text/​css" media=​"screen,projection">
+    @import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=2728956736);@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/component.min.css?xn_version=295185491);
+    </style>
+
+Bu ve benzeri şekilde birçok css dosyası @import yöntemiyle çağırılıp websayfasında komutları kullanılmıştır. Bu açık kaynak kodlardan ben de web sitemi oluştururken yardım alacağım.
