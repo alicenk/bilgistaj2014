@@ -22,12 +22,12 @@ Bu kodları notepad++ ile google chrome derleyicisinde çalıştırarak ilk tasl
 
 Daha sonra markdown notasyonunu kavrayabilmek için bazı html kodlarının markdownda karşılıklarını inceledim. Markdown notasyonunda html'ye karşılık gelen bazı kodların şunlar olduğunu gördüm
 
-- HTML'de listeleme yapmak için kullanılan kod < li > < /li yerine markdown'da sadece küçük tire (-) bu görevi yerine getirebiliyor.*
+- *HTML'de listeleme yapmak için kullanılan kod < li > < /li yerine markdown'da sadece küçük tire (-) bu görevi yerine getirebiliyor.*
 
-- HTML'de paragraflar arası boşluk bırakmak için < ul >< /ul kodu kullanılırken markdownda enter'a iki defa basmak yeterli oluyor.*
+- *HTML'de paragraflar arası boşluk bırakmak için < ul >< /ul kodu kullanılırken markdownda enter'a iki defa basmak yeterli oluyor.*
 
-- HTML'de < h1 > < /h1 > 'e bir tane # işareti, < h2 > < /h2 'ye ## ,< h3 > < /h3 >'e ### işareti denk geliyor.*
+- *HTML'de < h1 > < /h1 > 'e bir tane # işareti, < h2 > < /h2 'ye ## ,< h3 > < /h3 >'e ### işareti denk geliyor.*
 
-- Bunların yanında HTML'de sayfamıza resim linki ya da direk resim eklemek istersek < img src ="http://bubirresimkinkidir.com" /> kodunu yazmamız gerekmektedir. Markdown'da ise programın özelliğini kullanarak direk resmin linkini girip sayfamızda çıkartabiliyoruz.
+- *Bunların yanında HTML'de sayfamıza resim linki ya da direk resim eklemek istersek < img src ="http://bubirresimkinkidir.com" /> kodunu yazmamız gerekmektedir. Markdown'da ise programın özelliğini kullanarak direk resmin linkini girip sayfamızda çıkartabiliyoruz.*
 
 
