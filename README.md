@@ -44,6 +44,12 @@ Bu hafta projem için temel oluşturmak amaçlı bazı bilgiler edindim. Öğren
 
 Bu hafta bayram tatilinin de araya girmesinden dolayı sadece iki gün çalışabildiğim için ikinci haftam olan bu haftada fazla ilerleme kaydedemedim. Fakat ilk hafta öğrendiğim temel HTML kodlarıyla beraber çalıştığım HTML dersleri veren web sitesinden yardım alarak kendim basit bir sayfa oluşturdum. Oluşturduğum sayfa açıklamalar,paragraflar,link ve resim içeriyordu.Bu kolay aşamadan sonra ikinci günümde sayfalar arası geçişlerin nasıl olduğunu öğrendim. Bir web sayfası hazırlarken akla takılan ilk soru kodlanan bir sayfadan ötekine nasıl geçileceğidir. Bu hafta bu işlemi basit haliyle kavradım.Daha iyi kavrayabilmek için kullandığım hazır kodları kullanıp butonlara kendi sayfamın .html uzantısını verdim ve sayfalar arasındaki geçişleri sağladım. Bir twitter clone'u web site bulup kodlarını inceledim ve CSS'in incelediğim yöntemlere benzer bir yöntemle çekildiğini gördüm.
 
+*******************************
+
+**Üçüncü hafta:**
+
+Bu hafta HTML araştırmalarımın sonuna geldim ve genel itibariyle CSS öğrenmeye giriştim. CSS komutlarını ve syntax'ını irdeledim. CSS'de arkaplan komutlarını, arka plana resim koymayı, arka plana konulan resmin konumunu değiştirmeyi, arka plandaki resmin tekrarlarını ve bunu engellemeyi, CSS'de class ve ID kullanımını ve bunların amaçlarını öğrendim. Class ve ID'nin CSS için mihenk taşı olduğunu gördüm. Çünkü HTML taglarının dışında farklı bir stil ismi vererek birden fazla element için CSS kodlarına ulaşabildiklerini öğrendim.
+
 
 
 
