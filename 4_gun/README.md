@@ -22,16 +22,17 @@ Bu kod css'in style yöntemiyle yazılmış ve notepad++ da yazıp farklı kayde
 
 < head > kısmına < style > elementi kullanarak CSS kodu yazarak uygulamak.
 
-    `<html xmlns="http://www.w3.org/1999/xhtml">`
-    <head>
-    `<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
-    <title>CSS'i Uygulamak </title>
-    <style type="text/css">
-    div{
-    color:red;
-    }
-    </style>
-    </head>
+    <html xmlns="http://www.w3.org/1999/xhtml">`
+       <head>
+       <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+        <title>CSS'i Uygulamak </title>
+        <style type="text/css">
+        div{
+           color:red;
+        }
+        </style>
+      </head>
+    </html>
 
 < head > </ head> kısmına bu kodları yazdığımızda, css komutlarını yerleştirdiğimizde çalıştırdıktan sonra ekranda kırmızı olarak "CSS'i uygulamak" yazmaktadır. CSS komutlarının çoğunluğu html kodlarının < head > kısmında bulunmaktadır.
 
@@ -54,25 +55,26 @@ Yani CSS ile özellikler bir dosyada kaydedilir. Bu özellikler kodlamada HTML k
 Örnek bir css kodunu HTML satırında uygun herhangi bir yöntemle çağırabiliriz.
 
     <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
-    <title>CSS'i Uygulamak</title>
-    <link rel="stylesheet" type="text/css" href="ornek.css" />
-    </head>
-
+         <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+            <title>CSS'i Uygulamak</title>
+            <link rel="stylesheet" type="text/css" href="ornek.css" />
+         </head>
+     </html>
 
 Link elementiyle HTML kodlarına CSS komutları eklenmiş,çağırılmıştır. Bir kere yazılan CSS kodu bu çağırma yöntemiyle lazım olan bütün sayfalara çağırılabilir.
 
 ***@import ile eklemek:***
 
     <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
-    <title>CSS'i Uygulamak</title>
-    <style type="text/css">
-    @import "ornek.css";
-    </style>
-    </head>
+         <head>
+         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+            <title>CSS'i Uygulamak</title>
+            <style type="text/css">
+            @import "ornek.css";
+            </style>
+          </head>
+     </html>
 
 Örnek bir html kodudur ve @import yöntemi ile ornek.css dosyasında css komutları çağırılır. 3.yöntem ile benzerliği vardır ancak @import ile eklenen kod link ile eklenen koddan daha çabuk yorumlanır. Bu yüzden eski web tarayıcıları tarafından görülmeyebilir.
 
