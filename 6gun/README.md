@@ -11,6 +11,7 @@ HTML'de bağlantılar (link'ler) < a > etiketi içine yazılır. a harfi İngili
    < a href="http://www.google.com.tr/">Bu bir link'tir.< a >
 
 Bu kod satırı web sayfamızda link vermeye yarar ve href'den sonra = yazdığımızda tırnak içine yönlenmek istediğimiz sitenin adını yazarız.
+
  `<img src="http://görseliçerik.com"/>`
 
 Bu örnek kod satırıyla tırnak içine görsel birşey içeren link yazdığımızda çalıştırdığımız zaman web sayfamızda linkteki görsel içerik görünür.
@@ -18,21 +19,21 @@ Bu örnek kod satırıyla tırnak içine görsel birşey içeren link yazdığı
 Bu bilgiler yardımıyla aşağıdaki kodlarla birlikte örnek taslak bir websitesi elde ettim.
 
             <html>
-            <head>
-            <title> çiçekler</title>
-            </head>
-            <body>
-            <h1>Çiçekler türleri</h1>
-            <Phasellus feugiat ligula vitae purus pretium nec commodo lorem convallis.</p>
-      <h2>Kırmızı Çiçekler</h2>
-      <img src="http://www.zinzinzibidi.com/Areas/web_tasarim/Content/img/cicek.png" alt="kırmızı bir çiçek" />
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quam mi,.</p>
-      <p>Curabitur sit amet arcu ac lectus aliquet placerat. Duis sit amet.</p>
-      <h2>Mavi Çiçekler</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo.</p>
-      <a href="http://www.zinzinzibidi.com/Areas/web_tasarim/Content/img/mavi_cicek.jpg">Mavi bir çicek örneği</a>
-      </body>
-      </html>
+              <head>
+                <title> çiçekler</title>
+              </head>
+              <body>
+                <h1>Çiçekler türleri</h1>
+                <p>Phasellus feugiat ligula vitae purus pretium nec commodo lorem convallis.</p>
+                <h2>Kırmızı Çiçekler</h2>
+                <img src="http://www.zinzinzibidi.com/Areas/web_tasarim/Content/img/cicek.png" alt="kırmızı bir çiçek" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quam mi,.</p>
+                <p>Curabitur sit amet arcu ac lectus aliquet placerat. Duis sit amet.</p>
+                <h2>Mavi Çiçekler</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo.</p>
+                <a href="http://www.zinzinzibidi.com/Areas/web_tasarim/Content/img/mavi_cicek.jpg">Mavi bir çicek örneği</a>
+              </body>
+            </html>
 
 
 
