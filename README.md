@@ -11,7 +11,7 @@ Bilgi Üniversitesi Yazılım Geliştirme bölümünde yapacağım 20 iş günl�
 Bilgi üniversitesi/Yazılım geliştirme bölümü.
 
 #####Sorumlu Kişi/Kontrol eden'in kişisel bilgileri:
-** ADI-SOYADI:** Ali Özgür.
+**ADI-SOYADI:** Ali Özgür.
 
 **KONUMU:** Yazılım Geliştirme  Platform ve Servisler Yöneticisi
 Bilgi Üniversitesi IT Bölümü.
