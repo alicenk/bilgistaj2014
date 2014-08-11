@@ -40,9 +40,9 @@ Bu kod sayfasında sayfalar arası geçiş < li > < /li > etiketleri arasında <
 Sayfalar arası geçişi sağlamak için gerekli kod satırları şunlardır:
 
             <ul>
-    		<li><a href="anasayfa.html">Anasayfa</li></a>
-    		<li><a href="başkanınsayfası.html">Başkanın Sayfası</li></a>
-    		<li><a href="iletişim.html">İletişim</li></a>
+    		   <li><a href="anasayfa.html">Anasayfa</li></a>
+    		   <li><a href="başkanınsayfası.html">Başkanın Sayfası</li></a>
+    		   <li><a href="iletişim.html">İletişim</li></a>
     		</ul>
 
 
@@ -50,31 +50,31 @@ Bu kod satırlarında görüldüğü üzere link uygulaması isimli sayfadan ana
 
 
     <html>
-    <body bgcolor="yellow">
-    <form class="form-horizontal">
-    	<div class="control-group">
-    	  <label class="control-label" for="inputEmail">Email</label>
+       <body bgcolor="yellow">
+         <form class="form-horizontal">
+    	   <div class="control-group">
+    	     <label class="control-label" for="inputEmail">Email</label>
+    	   <div class="controls">
+    	     <input type="text" id="inputEmail" placeholder="Email"/>
+    	   </div>
+    	   </div>
+    	   <div class="control-group">
+    	     <label class="control-label" for="inputPassword">Password</label>
     	  <div class="controls">
-    	<input type="text" id="inputEmail" placeholder="Email"/>
+    	     <input type="password" id="inputPassword" placeholder="Password">
     	  </div>
-    	</div>
-    	<div class="control-group">
-    	  <label class="control-label" for="inputPassword">Password</label>
+     	  </div>
+    	  <div class="control-group">
     	  <div class="controls">
-    	<input type="password" id="inputPassword" placeholder="Password">
+    	     <label class="checkbox">
+    	       <input type="checkbox"> Remember me
+    	     </label>
+    	     <button type="submit" class="btn"><a href="deneme.html">Sign in</a></button>
+    	   </div>
     	  </div>
-    	</div>
-    	<div class="control-group">
-    	  <div class="controls">
-    	<label class="checkbox">
-    	  <input type="checkbox"> Remember me
-    	</label>
-    	<button type="submit" class="btn"><a href="deneme.html">Sign in</a></button>
-    	  </div>
-    	</div>
-      </form>
-    	  </body>
-    	  </html>
+        </form>
+      </body>
+    </html>
 
 Görüldüğü üzere önceki araştırmalarımda edindiğim form sayfasının kaynak kodları bunlardır. Bu kodları notepad++'da .html uzantısıyla anasayfa adında kaydettiğimde artık anasayfa.html isimli bir websayfası oldu. Şimdi link uygulaması başlıklı websayfasındaki anasayfa linkine tıkladığımızda anasayfa.html uzantısıyla kaydettiğimiz form sayfasına yönlendirildik.
 
@@ -89,7 +89,7 @@ Sayfalar arası geçişleri de öğrendikten sonra twitter benzeri açık kaynak
 
 
     <style type=​"text/​css" media=​"screen,projection">
-    @import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=2728956736);@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/component.min.css?xn_version=295185491);
+        @import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=2728956736);@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/component.min.css?xn_version=295185491);
     </style>
 
 Bu ve benzeri şekilde birçok css dosyası @import yöntemiyle çağırılıp websayfasında komutları kullanılmıştır. Bu açık kaynak kodlardan ben de web sitemi oluştururken yardım alacağım.
