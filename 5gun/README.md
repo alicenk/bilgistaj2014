@@ -52,7 +52,7 @@ Bu kodları notepad++ da .html uzantısıyla kaydettiğimizde  websayfasında
 <p class="text-info" >haber.</p>
 <p class="text-success">başarı.</p>
 
-    Çıktısını alırız.
+Çıktısını alırız.
 
 
 Kullanıcı adı, şifre, e-posta isteyen bir web arayüzü için gerekli kodlar:
@@ -60,32 +60,32 @@ Kullanıcı adı, şifre, e-posta isteyen bir web arayüzü için gerekli kodlar
 
          <form class="form-horizontal">
             <div class="control-group">
-             <label class ="control-label" for="inputEmail">Email</label>
-             <div class="controls">
-             <input type=text id="nputEmail" placeholder="Email">
-             </div>
-             </div>
+              <label class ="control-label" for="inputEmail">Email</label>
+               <div class="controls">
+                <input type=text id="nputEmail" placeholder="Email">
+               </div>
+               </div>
              <div class="control-group">
-             <label class="control-label"
+              <label class="control-label"
              for="inputPassword">Password</label>
-             <div class="controls">
-             <input type="Pasword" id="inputPasword"
-             placeholder="Pasword
-             </div>
-             </div>
+               <div class="controls">
+                <input type="Pasword" id="inputPasword"
+                 placeholder="Pasword
+                </div>
+               </div>
              <div class="control-group">
-             <div vlass="controls">
-             <label class="checkbox">
-             <input type="checkbox"> remember me
+               <div vlass="controls">
+                 <label class="checkbox">
+              <input type="checkbox"> remember me
              </label>
              <button type="submit" class="btn">Sing in </button>
              </div>
              </div>
-             </form>
+         </form>
 
 
 
- Bu kodlar notepad++'da .html uzantısıyla çalıştırıldığında web sayfamızda bir form sayfası ve kullanıcıdan e-posta ve şifre isteyecek metin kutuları görünecektir. Bir de chechbox olacaktır orda da remember me ifadesi bulunacaktır.
+ Bu kodlar notepad++'da .html uzantısıyla çalıştırıldığında web sayfamızda bir form sayfası ve kullanıcıdan e-posta ve şifre isteyecek metin kutuları görünecektir. Bir de chechbox olacaktır orda da 'remember me' ifadesi bulunacaktır.
 
 
  Ben bu kodlarla genel bir form yapısını, websayfamda olucak olan uyarı ibarelerini  bunların nasıl koda döküleceğini bu kodlarla inceledim fikir sahibi olmaya çalıştım. Şimdi de sade bir html çalışmasıyla kendim websayfasına buton ekledim. Benim kodlarım da şunlar:
@@ -109,36 +109,36 @@ Bu kısa kod çalışmamın ilerki çalışmalarıma öncü olacağını ümit e
  Bugün bağımsız olarak öğrendiğim diğer bir program da websayfasında tablo oluşturma programı oldu. Oluşturduğum tablonun kodları şunlar:
 
          <html>
-         <head>
-         <title>tablo</title>
-         </head>
-         <body>
-         <table border=10>
-         <tr>
-         <th>Sıra no</th>
-         <th>isim</th>
-         <th>soyisim</th>
-         <th>yaş</th>
-         </tr>
-         <tr>
-         <td aling center>1</td>
-         <td>ahmet</td>
-         <td>doğru>/td>
-         <td>21>/td>
-         </tr>
-         <tr>
-         <td aling center>2</td>
-         <td>can</td>
-         <td>tezcan</td>
-         <td>23</td>
-         </tr>
-         <tr>
-         <td aling center>3</td>
-         <td>gökalp</td>
-         <td>turgut</td>
-         <td> 24</td>
-         </tr>
-         </body>
+          <head>
+            <title>tablo</title>
+          </head>
+          <body>
+            <table border=10>
+             <tr>
+              <th>Sıra no</th>
+              <th>isim</th>
+              <th>soyisim</th>
+              <th>yaş</th>
+             </tr>
+             <tr>
+              <td aling center>1</td>
+              <td>ahmet</td>
+              <td>doğru>/td>
+              <td>21>/td>
+             </tr>
+             <tr>
+              <td aling center>2</td>
+              <td>can</td>
+              <td>tezcan</td>
+              <td>23</td>
+             </tr>
+             <tr>
+              <td aling center>3</td>
+              <td>gökalp</td>
+              <td>turgut</td>
+              <td> 24</td>
+             </tr>
+           </body>
          </html>
 
 Bu kodlamada tablo yaparken gerekli elementlerin neler olduğunu öğrendim. Tablonun kalınlığını body kısmında  table etiketinin border özelliğinin belirlediğini öğrendim. Tablodaki nesneleri ortalamak için de "aling center" komutunu kullanmamız gerektiğini öğrendim. Eğer nesnelerin sağda olmasını istersek "aling center" yerine "aling right" yapmamız gerektiğini öğrendim. Başlıklar için diğerlerinden ayrı olarak < th > elementini kullandık. Ancak yine < td > kullanarak bunun içerisinde başlık elementi olan < h > kullanabilirdik. Sayfanın görüntüsü aynı olurdu.
