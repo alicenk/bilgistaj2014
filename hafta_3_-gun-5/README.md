@@ -142,7 +142,7 @@ Bu kod ile < head > tag'inde yazılan a tag'ı için kullanılması komut verile
 
 Bknz:
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
