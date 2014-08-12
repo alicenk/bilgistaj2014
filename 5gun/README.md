@@ -121,19 +121,19 @@ Bu kısa kod çalışmamın ilerki çalışmalarıma öncü olacağını ümit e
               <th>yaş</th>
              </tr>
              <tr>
-              <td aling center>1</td>
+              <td align="center">1</td>
               <td>ahmet</td>
               <td>doğru>/td>
               <td>21>/td>
              </tr>
              <tr>
-              <td aling center>2</td>
+              <td align="center">2</td>
               <td>can</td>
               <td>tezcan</td>
               <td>23</td>
              </tr>
              <tr>
-              <td aling center>3</td>
+              <td aling="center">3</td>
               <td>gökalp</td>
               <td>turgut</td>
               <td> 24</td>
@@ -141,7 +141,7 @@ Bu kısa kod çalışmamın ilerki çalışmalarıma öncü olacağını ümit e
            </body>
          </html>
 
-Bu kodlamada tablo yaparken gerekli elementlerin neler olduğunu öğrendim. Tablonun kalınlığını body kısmında  table etiketinin border özelliğinin belirlediğini öğrendim. Tablodaki nesneleri ortalamak için de "aling center" komutunu kullanmamız gerektiğini öğrendim. Eğer nesnelerin sağda olmasını istersek "aling center" yerine "aling right" yapmamız gerektiğini öğrendim. Başlıklar için diğerlerinden ayrı olarak < th > elementini kullandık. Ancak yine < td > kullanarak bunun içerisinde başlık elementi olan < h > kullanabilirdik. Sayfanın görüntüsü aynı olurdu.
+Bu kodlamada tablo yaparken gerekli elementlerin neler olduğunu öğrendim. Tablonun kalınlığını body kısmında  table etiketinin border özelliğinin belirlediğini öğrendim. Tablodaki nesneleri ortalamak için de "align center" komutunu kullanmamız gerektiğini öğrendim. Eğer nesnelerin sağda olmasını istersek "align center" yerine "align right" yapmamız gerektiğini öğrendim. Başlıklar için diğerlerinden ayrı olarak < th > elementini kullandık. Ancak yine < td > kullanarak bunun içerisinde başlık elementi olan < h > kullanabilirdik. Sayfanın görüntüsü aynı olurdu.
 
 
 
