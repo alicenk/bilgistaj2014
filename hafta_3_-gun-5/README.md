@@ -165,4 +165,4 @@ Metinin konumunu belirlemek için kullanmamız gereken özellik text-aling özel
 
 Bu gün CSS kodlarına genel giriş yaptım. 4.haftada farklı bir kaynaktan çektiğim buton kodunu notepad++'da derlediğimde butonlarım düz çıkmıştı.Sebebini ilerki haftalarda irdeleyeceğimi söylemiştim. Şimdi orada görüntünün istediğim gibi olmamasının sebebinin CSS kodları olduğunu anladım. Her bir buton için farklı büyüklük ve mavi renk almak için CSS kodları gerekliydi.
 
-Bu gün üçüncü haftamın son günü. Stajımın bitmesine kalan 8 iş günümde taslak anasayfamı oluşturmaya çalışacağım ve bunun için CSS kodlarını daha çok irdeleyeceğim.
+Bu gün üçüncü haftamın son günü. Stajımın bitmesine kalan 8 iş günümde taslak anasayfamı oluşturmaya çalışacağım ve bunun için CSS kodlarını daha çok irdeleyeceğim....
