@@ -113,6 +113,12 @@ Arka plan olarak background özelliklerini tek tek girmek yerine background: dan
 
 Arka plan olarak background özelliklerini tek tek girmek yerine background: dan sonra özellikleri tek tek girebiliriz.Buna 'steno' özelliği denir.
 
+     body {
+           background: url("img_tree.png") no-repeat right top;
+           margin-right: 200px;
+          }
+Görüldüğü gibi steno özelliğini kullandık ve sadece arkaplan (background) özelliği altında diğer değerleri topladık. Tek çatı altında toplamış bulunduk. Ancak bunu yaparken özelliğin yani arkaplan özelliğinin değerlerini ard arda yazarken her özellikten sonra ';' kullanılmaz. Bütün özellikler yazıldıktan sonra son özelliğin önünde belirleyici olarak ';' kullanılır.
+
 Belirlediğimiz elemanın konumu için kullanılan özellik background-position’dır.
 
 Text-decoration özelliği ayarlamak veya metinden süslemeleri kaldırmak için kullanılır.
