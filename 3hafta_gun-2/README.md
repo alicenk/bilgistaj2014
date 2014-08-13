@@ -1,7 +1,7 @@
 # İkinci Hafta
 
 ##1.gün
-**04/08/2014**
+**01/08/2014**
 
 
 Bu gün projem için sayfalar arası geçişlerin hangi etiketlerle olabileceğini araştırdım. Kişiden kullanıcı adı ve şifre istendiğinde,bir link'e tıkladığı zaman websitenin içerisinde başka bir sayfaya geçmek için gerekli etiketleri ve kodlamaları öğrendim.Ayrıca bi tane açık kaynaklı twitter clone sitesi keşfettim ve kaynak kodlarını inceledim. Öğrendiklerime benzer kodlama var mı yok mu onu kontrol ettim ve @port ile css dosyası çekme yöntemini kullandıklarını farkettim.
