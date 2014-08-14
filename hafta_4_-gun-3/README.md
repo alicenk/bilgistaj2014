@@ -150,26 +150,5 @@ Bu kod display yani göster ve inline yani demek istediği satır içi listeledi
 
 Bu düzenlemelerden sonra linklerde altı çizili görüntü olmayacaktır. Text-shadow ile de textleri blurlama özelliğini kullanıp mavi renk verdim.
 
-İstediğim ekran çıktısı da şudur:
-
-<html>
-    <head>
-        <style>
-            a {
-               text-shadow:1px 2px 5px blue;
-              }
-            li {
-               display: inline;
-              }
-        </style>
-    </head>
-    <body>
-        <ul>
-        <li><a style="text-decoration:none" href="/html/default.asp" target="_blank">HTML</a></li>
-        <li><a style="text-decoration:none" href="/css/default.asp" target="_blank">CSS</a></li>
-        <li><a style="text-decoration:none" href="/js/default.asp" target="_blank">JavaScript</a></li>
-        </ul>
-    </body>
-</html>
 
 Bu şekilde menü oluşturmayı ana hatlarıyla öğrendim. Hücrelerin web sayfasındaki konumuna daha önceden çalışmıştım. Bu bilgilerimi geliştirerek yavaş yavaş bir web sayfası oluşturacağım.
