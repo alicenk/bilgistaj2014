@@ -51,3 +51,4 @@ Bu işlemlerimde kullandığım kod kısmı şudur:
 
 
 Bugünki çalışmamda z-index kullanımını , websayfasına arama motoru eklemeyi , websayfama logo eklemeyi öğrendim. Araştırarak bulduğum ve aside kısmına eklemem gereken basit script kodu olan takvim oluşturma kodunu kullandım.Web sayfama logo ekledim ve CSS'in position özelliğiyle bunların websayfasının header bölümündeki yerini belirledim. Daha önce yaptığım küçük kod hatalarını bulup düzenledim.
+
