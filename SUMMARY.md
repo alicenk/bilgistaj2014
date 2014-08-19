@@ -17,4 +17,5 @@
 * [Hafta 4 -Gün-3](hafta_4_-gun-3/README.md)
 * [Hafta 4 -Gün-4](hafta_4_-gun-4/README.md)
 * [Hafta 4 -Gün-5](hafta_4_-gun-5/README.md)
+* [Hafta 5 -Gün-1](hafta_5_-gun-1/README.md)
 
