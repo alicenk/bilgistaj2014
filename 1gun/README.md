@@ -2,7 +2,7 @@
 ##1.gün
 **21/07/2014**
 
-Bugün stajın ilk günü.Staj boyunca bir web sayfasının genel yapısını,open source kodlarla çalışmayı ve yazılımcılar içn özellikle html,javascript kullanıcıları için oldukça kolaylık sağlayan ve aynu anda farklı yerlerden birçok kişinin ortak proje üzerinde çalışabilmesine imkan sağlayan 'github'notasyonunu ve markdown'u araştırıp ne işe yaradığını öğreneceğim.
+Bugün stajın ilk günü.Staj boyunca bir web sayfasının genel yapısını,open source kodlarla çalışmayı ve yazılımcılar içn özellikle html,javascript kullanıcıları için oldukça kolaylık sağlayan ve aynı anda farklı yerlerden birçok kişinin ortak proje üzerinde çalışabilmesine imkan sağlayan 'github'notasyonunu ve markdown'u araştırıp ne işe yaradığını öğreneceğim.
 
 
 Bugün ilk günüm olduğu için sadece yapmam gerekenler belirlendi. GitHub,GitBook'da account oluşturdum. LinkedIn account'u oluşturup burda yazılım geliştirme bölümünden diğer çalışanlarla bağlantı kurmam sağlandı.Bunları hallettikten sonra markdown,git notasyonlarını araştırmaya koyuldum.

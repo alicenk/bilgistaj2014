@@ -50,6 +50,11 @@ Bu hafta bayram tatilinin de araya girmesinden dolayı sadece iki gün çalışa
 
 Bu hafta HTML araştırmalarımın sonuna geldim ve genel itibariyle CSS öğrenmeye giriştim. CSS komutlarını ve syntax'ını irdeledim. CSS'de arkaplan komutlarını, arka plana resim koymayı, arka plana konulan resmin konumunu değiştirmeyi, arka plandaki resmin tekrarlarını ve bunu engellemeyi, CSS'de class ve ID kullanımını ve bunların amaçlarını öğrendim. Class ve ID'nin CSS için mihenk taşı olduğunu gördüm. Çünkü HTML taglarının dışında farklı bir stil ismi vererek birden fazla element için CSS kodlarına ulaşabildiklerini öğrendim.
 
+********************************
+
+**Dördüncü ve Beşinci hafta:**
+
+Dördüncü ve beşindi haftada toplam 8 iş günü çalıştım ve önceki üç haftada öğrendiğim bilgi birikimiyle taslak bir anasayfa ürettim. Üzerinde çalışarak yeni bilgiler ekledim ve JavaScript kodlarına ufak bir giriş yaptım. Sözde sınıfları sözde elemanları öğrenip kullandım. Web sayfasında div'leri header'ları navigation'ları aside'leri kullandım. Form yarattım ve sözde sınıflarla buttonların fare üzerine geldiğinde belirginleşmesini sağladım. Divisiondaki elemanlarımın border'larını kullandım ve position değerleriyle web sayfasında elementlerimin yerini belirledim. Web sayfamda başlık kısmına sosyal ağ düğmelerini ekledim ve hemen altına site içi arama motoru kodladım. Son olarak web sayfama kategori ekledim ancak tamamlayamadım. Web sayfamın HTML kodları ve CSS kodlarını günlüğümün ek sayfasında paylaştım.
 
 
 
