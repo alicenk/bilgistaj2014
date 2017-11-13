@@ -1,3 +1,4 @@
+Ali Cenk
 ### 2014 Trakya Üniversitesi-Bilgisayar Mühendisliği
 >YAZILIM STAJ RAPORU
 
